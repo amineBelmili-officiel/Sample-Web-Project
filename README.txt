@@ -11,7 +11,7 @@
 ****************************************************/
 Libraries:-
 #1. Normalize v8.0.1
-#2. html5shiv v3.7.0
+#2. html5shiv-CDN v3.7.0
 #3. jquery-CDN v3.3.1
 
 Font-family:-
